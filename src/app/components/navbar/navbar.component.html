@@ -1,0 +1,13 @@
+<div class="container">
+    <nav class="navbar navbar-light navbar-expand-md" style="background-color: var(--bs-blue);margin-bottom: 20px;">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#" style="color: var(--bs-gray-100);">{{'app.title' | translate}}</a>
+            <div style="display: flex;width: 450px;justify-content: space-around;">
+                <select clase="language-picker"  (change)="selectLanguage($event)">
+                    <option value= "en" selected>{{'language.english' | translate}}</option>
+                    <option value= "es">{{'language.spanish' | translate}}</option> 
+                </select>                             
+            </div>
+        </div>
+    </nav>
+</div>

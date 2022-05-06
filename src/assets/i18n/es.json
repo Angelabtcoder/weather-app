@@ -1,0 +1,20 @@
+{
+	"app": {
+		"city": "Elige tu ciudad",
+		"date": "Fecha",
+		"description": "Descripción",
+		"hourly": "Cada hora",
+		"humidity": "Humedad",
+		"max": "Temperatura máxima",
+		"min": "Temperatura mínima",
+		"more": "MAS DETALLES",
+		"now": "Hoy",
+		"pressure": "Presión atmosférica",
+		"title": "Predicción del tiempo",
+		"wind": "Velocidad del viento"
+	},
+	"language": {
+		"english": "Inglés",
+		"spanish": "Español"		
+	}
+}

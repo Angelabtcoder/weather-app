@@ -1,0 +1,20 @@
+{
+	"app": {
+		"city": "Choose your city",
+		"date": "Date",
+		"description": "Description",
+		"hourly": "Hourly",
+		"humidity": "Humidity",
+		"max": "Maximum temperature",
+		"min": "Minimum temperature",
+		"more": "MORE DETAILS",
+		"now": "Now",
+		"pressure": "Pressure",
+		"title": "Weather prediction app",
+		"wind": "Wind speed"		
+	},
+	"language": {
+		"english": "English",
+		"spanish": "Spanish"		
+	}
+}
