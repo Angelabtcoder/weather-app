@@ -1,27 +1,68 @@
-# WeatherApp
+# weather-app ( Aplicación Frontend )
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+## Comenzando 🚀
 
-## Development server
+Este proyecto es parte de una prueba técnica. Consiste en la realización de una aplicación para pronosticar el tiempo a partir de datos de la API de OpenWeatherMap. Se listan los datos en una vista, conteniendo el pronostico del dia y por horas, ajustándose el idioma de publicación, tomándo por defecto el idioma inglés.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Development 
 
-## Code scaffolding
+Ejecutar con  `npm run start` para desarrollo.  `http://localhost:4200/`. La aplicación se recargará automaticamente al actualizar el código fuente.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Construido con 🛠️
 
-## Build
+* [Nodejs]- version 16.14.2(https://nodejs.org/es/)
+* Angular 13.3.1
+* Bootstrap 5.1.3
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+### Instalación 🔧
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Proceder a clonar la aplicación (https://github.com/Angelabtcoder/weather-app.git)
+```
+git clone https://github.com/Angelabtcoder/weather-app.git
+```
 
-## Running end-to-end tests
+Implementar la carpeta /node module con las dependencias con el comando:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
+npm install
+```
 
-## Further help
+Ejecutar el proyecto mediante el comando:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```
+npm run start
+```
+
+Para la instalación de los módulos de traducción :
+
+```
+npm install @ngx-translate/core @ngx-translate/http-loader --save
+```
+
+## Screenshot 📖
+
+El proyecto en el frontend pr![Image 001](https://user-images.githubusercontent.com/77165242/167059155-9de7d488-736b-49e9-ab47-f8c061b77e9c.jpg)
+esenta una arquitectura típica de Angular, basada en componentes, modelos, servicios, cada uno en sus respectivas carpetas.
+
+![Uploading Image 001.jpg…]()
+
+![now](https://user-images.githubusercontent.com/77165242/167058986-67f5cfe4-95cd-4f61-a629-af35cbe5e60e.jpg)
+
+![Hourly](https://user-images.githubusercontent.com/77165242/167058997-2a642de4-2aa8-475a-a064-62ea5fd82d2e.jpg)
+
+## Herramientas adicionales 🛠️
+
+Para la edición y verificación del formato de los ficheros JSON de la traducción utilicé el BabelEdit, facilitando la tarea:
+
+![Babel](https://user-images.githubusercontent.com/77165242/167059006-f2ae0083-5e77-4fc0-ab5a-73336f6452ff.jpg)
+
+## Autora ✒️
+
+* **Angela Blanco Terry** - [Angelabtcoder](https://github.com/Angelabtcoder)
+
+
+
+
+
+
