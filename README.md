@@ -44,7 +44,9 @@ npm install @ngx-translate/core @ngx-translate/http-loader --save
 
 El proyecto en el frontend presenta una arquitectura típica de Angular, basada en componentes, modelos, servicios, cada uno en sus respectivas carpetas.
 
-![Uploading Image 001.jpg…]()
+
+![Image 001](https://user-images.githubusercontent.com/77165242/167059407-a7d8c8a0-07ba-4ec2-935e-33cc8a2d7e06.jpg)
+
 
 ![now](https://user-images.githubusercontent.com/77165242/167058986-67f5cfe4-95cd-4f61-a629-af35cbe5e60e.jpg)
 
