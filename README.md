@@ -58,6 +58,10 @@ Para la edición y verificación del formato de los ficheros JSON de la traducci
 
 ![Babel](https://user-images.githubusercontent.com/77165242/167059006-f2ae0083-5e77-4fc0-ab5a-73336f6452ff.jpg)
 
+## Sugerencias para mejoras a futuro 📖
+
+El proyecto es susceptible a mejoras en su refactorización, asi como en la ubicación de los respectivos estilos CSS en los archivos de estilos de cada componente. Son detalles que quedaron pendientes por completar, entre otros.
+
 ## Autora ✒️
 
 * **Angela Blanco Terry** - [Angelabtcoder](https://github.com/Angelabtcoder)
