@@ -60,7 +60,7 @@ Para la edición y verificación del formato de los ficheros JSON de la traducci
 
 ## Sugerencias para mejoras a futuro 📖
 
-El proyecto es susceptible a mejoras en su refactorización, asi como en la ubicación de los respectivos estilos CSS en los archivos de estilos de cada componente. Son detalles que quedaron pendientes por completar, entre otros.
+El proyecto es susceptible a mejoras en su refactorización, asi como en la ubicación de los respectivos estilos CSS en los archivos de estilos de cada componente.También el uso de Eslint para dar formato al código del proyecto. Son detalles que quedaron pendientes por completar.
 
 ## Autora ✒️
 
