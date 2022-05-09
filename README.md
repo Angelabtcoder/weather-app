@@ -2,7 +2,7 @@
 
 ## Comenzando 🚀
 
-Este proyecto es parte de una prueba técnica. Consiste en la realización de una aplicación para pronosticar el tiempo a partir de datos de la API de OpenWeatherMap. Se listan los datos en una vista, conteniendo el pronostico del dia y por horas, ajustándose el idioma de publicación, tomándo por defecto el idioma inglés.
+Este proyecto consiste en la realización de una aplicación para pronosticar el tiempo a partir de datos de la API de OpenWeatherMap. Se listan los datos en una vista, conteniendo el pronostico del dia y por horas, ajustándose el idioma de publicación, tomándo por defecto el idioma inglés.
 
 ## Development 
 
